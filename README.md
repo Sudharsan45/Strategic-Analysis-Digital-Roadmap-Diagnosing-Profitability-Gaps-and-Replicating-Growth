@@ -1,11 +1,14 @@
-Bharat Herald: Print Decline & Digital Transition Strategy
-About the Company
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e8f7390c-872a-44de-bbbb-2059c5eeb958" />
+
+
+# Bharat Herald: Print Decline & Digital Transition Strategy
+## About the Company
 
 Bharat Herald is a leading national newspaper facing a major transformation challenge in the media industry. Over five years, its print circulation has seen a steep decline, forcing the company to explore digital alternatives while maintaining profitability and brand trust.
 
-Problem Statement
+## Problem Statement
 
-Bharat Herald observed a 60%+ decline in print circulation between 2019 and 2024.
+Bharat Herald observed a **60%+** decline in print circulation between **2019 and 2024**.
 Despite strong readership legacy, low engagement in digital pilots and ineffective marketing allocation created a profitability gap across its city operations.
 
 The company sought a data-driven strategy to:
@@ -14,23 +17,22 @@ Identify root causes behind circulation decline.
 Quantify engagement and profitability trends.
 Recommend actionable steps for recovery through digital transformation.
 
-Objective
+## Objective
 
-To analyze Bharat Herald’s 5-year operational data (2019–2024) and design a profitable digital relaunch strategy using insights from print, ad revenue, and digital readiness metrics.
+To analyze Bharat Herald’s **5-year operational data (2019–2024)** and design a profitable digital relaunch strategy using insights from print, ad revenue, and digital readiness metrics.
 
-Data Overview
+## Data Overview
 
 The dataset includes:
 
-Print Operations: Copies printed, sold, and net circulation.
+    • Print Operations: Copies printed, sold, and net circulation.
+    • Ad Revenue: City-level and category-wise revenue.
+    • Digital Readiness Metrics: Literacy rate, smartphone penetration, internet access, and pilot engagement.
 
-Ad Revenue: City-level and category-wise revenue.
+## Key Insights
 
-Digital Readiness Metrics: Literacy rate, smartphone penetration, internet access, and pilot engagement.
-
-Key Insights
-
-A 60%+ drop in print circulation was observed, heavily impacting revenue.
+A **60%+ drop in print circulation** was observed, heavily impacting revenue.
+<img width="542" height="275" alt="image" src="https://github.com/user-attachments/assets/9dc14fab-a9ef-4bdc-a861-688ab5edcc0f" />
 
 Low Engagement Rate was the key driver behind the lowest Profitability Index across three major cities.
 
@@ -38,7 +40,7 @@ Cities with high digital readiness (smartphone, internet, literacy) had poor eng
 
 Ad revenue per circulated copy declined consistently post-2021, revealing inefficiencies in the current business model.
 
-Analysis Approach
+## Analysis Approach
 
 Exploratory Data Analysis (EDA) to uncover print and ad revenue trends.
 
@@ -61,7 +63,7 @@ A: Technology, Education, and Local Services maintained steady growth.
 Q: Where is print waste highest?
 A: Cities with older readership and poor delivery optimization.
 
-Recommendations
+## Recommendations
 
 Reallocate ₹1.2M marketing budget toward high-engagement zones to fund the new digital pilot.
 
@@ -73,18 +75,14 @@ Partner with local influencers and journalists to rebuild digital credibility.
 
 Gradually phase out low-profit print zones and reinvest in high-readiness markets.
 
-Outcome
+## Outcome
 
 A targeted data strategy was built to close the profitability gap between top and bottom-tier cities and guide Bharat Herald’s digital transformation roadmap with measurable, insight-backed decisions.
 
-Tools Used
-
-Python (Pandas, Matplotlib, Seaborn)
+## Tools Used
 
 Excel for initial data cleaning
-
-Power BI / Tableau for visualization
-
+Power BI  for visualization
 SQL for data extraction and aggregation
 
 Author

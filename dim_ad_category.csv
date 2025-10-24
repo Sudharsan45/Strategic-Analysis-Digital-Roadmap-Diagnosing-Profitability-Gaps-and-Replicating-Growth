@@ -1,0 +1,9 @@
+ad_category_id,standard_ad_category,category_group,example_brands
+A001,Government,Public Sector,LIC
+A001,Government,Public Sector,SBI
+A002,FMCG,Commercial Brands,HUL
+A002,FMCG,Commercial Brands,Britannia
+A003,Real Estate,Private Sector,DLF
+A003,Real Estate,Private Sector,Lodha
+A004,Automobile,Commercial Brands,Tata Motors
+A005,Automobile,Commercial Brands,Maruti
